@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoConfig02/AutoConfig02.iml" filepath="$PROJECT_DIR$/AutoConfig02/AutoConfig02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaconfig02/javaconfig02.iml" filepath="$PROJECT_DIR$/javaconfig02/javaconfig02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlConfig02/xmlConfig02.iml" filepath="$PROJECT_DIR$/xmlConfig02/xmlConfig02.iml" />
+    </modules>
+  </component>
+</project>
